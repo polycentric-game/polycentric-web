@@ -1,7 +1,8 @@
 ---
-title: Index
+title: index
 draft: false
-tags: example-tag
+tags:
+  - example-tag
 ---
 
 # Welcome to Extitutional Space
