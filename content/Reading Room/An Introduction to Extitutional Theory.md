@@ -2,7 +2,7 @@
 title: An Introduction to Extitutional Theory
 draft: false
 tags:
-  - glossary
+  - article
 ---
 ### An Introduction to Extitutional Theory
 
