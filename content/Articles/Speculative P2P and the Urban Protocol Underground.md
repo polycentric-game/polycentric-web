@@ -3,10 +3,11 @@ title: Speculative P2P and the Urban Protocol Underground
 draft: 
 tags:
   - article
+date: 2024-02-20
 ---
 
 ### Speculative P2P and the Urban Protocol Underground: An Update on the Open Protocol Research Group
-February 20, 2024
+
 *By Exeunt and the Open Protocol Research Group*
   
 

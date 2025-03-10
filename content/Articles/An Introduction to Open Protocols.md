@@ -3,9 +3,10 @@ title: An Introduction to Open Protocols
 draft: 
 tags:
   - article
+date: 2024-04-23
 ---
 ### An Introduction to Open Protocols
-April 23, 2024
+
 *By The Open Protocol Research Group*
 
 

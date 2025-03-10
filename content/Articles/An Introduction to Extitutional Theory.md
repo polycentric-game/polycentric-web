@@ -3,10 +3,13 @@ title: An Introduction to Extitutional Theory
 draft: false
 tags:
   - article
+date: 2021-01-18
 ---
 ### An Introduction to Extitutional Theory
 
 _By Jessy Kate Schingler and Primavera de Filippi_
+
+**First published on [Medium](https://medium.com/berkman-klein-center/an-introduction-to-extitutional-theory-e74b5a49ea53)**
 
 Extitutional theory is an emerging field of scholarship that provides a set of conceptual tools to describe and analyse the underlying social dynamics of a variety of social arrangements, such as communities, companies, organisations, or any other types of institutions.
 
@@ -29,5 +32,3 @@ Given that both lenses are looking at the exact same social arrangement — alth
 Extitutional theory is interested not only in the ways that individuals interact and engage with one another through relationships and rhythms, but also in how different practices of institutionalization can create conditions that stabilize and amplify, or erode and suppress, certain extitutional dynamics — and vice versa. Central to the process of institutionalisation is the concept of _enclosure_: the mechanism through which an institution implements increased control (or coding) relative to a particular domain. Conversely, extitutional theory contrasts _enclosure_ with the concept of _exclosure_, which recognizes that certain types of enclosures appear to play a different role — that of _protecting_ the activity within it from control and coding. Providing tools to better understand the interplay between these two mechanisms is one of the key contributions of Extitutional theory.
 
 Extitutional theory does not assign any moral value to institutions or extitutions: neither are good or bad; yet, because of the performativity of these lenses, choosing to look at a particular social arrangement as an institution or an extitution will impact the way we interact with it, as well as the manner in which it will evolve over time. Networked technologies in particular have created dramatic new exclosures giving rise to extitutional dynamics which can’t be understood through the institutional lens alone. Hence, extitutional theory is important not because it is better than institutional theory, but because extitutions are an under-studied phenomena. Understanding extitutional dynamics, and their interplay with the more familiar tools and logics of institutions, can help us respond to the specific, unprecedented demands of human coordination in our era.
-
-https://medium.com/berkman-klein-center/an-introduction-to-extitutional-theory-e74b5a49ea53
