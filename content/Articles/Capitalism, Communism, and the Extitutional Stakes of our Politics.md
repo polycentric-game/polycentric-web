@@ -6,8 +6,7 @@ tags:
 date: 2025-03-09
 ---
 
-![[exeuntdoteth_klimt_diego_rivera_print_of_astronauts_striving__221ec348-db5e-4f48-a2c7-64237cd5e391_2 copy.png]]
-
+![](https://github.com/oovg/quartz/blob/v4/capitalismcommunism.png?raw=true)
 ### Capitalism, Communism, and the Extitutional Stakes of our Politics
 
 Ethereum, so I've argued [elsewhere](https://www.extitutional.space/Articles/Speculative-P2P-and-the-Urban-Protocol-Underground), is one (major) part of a broader cultural awakening in the 21st century to the behaviors and economic flows of extitutional space (that ontologically flat and pluralistic "outside" to the institutional enclosures that have claimed dominion over Western culture since forever ago). [1] Extitutional space is defined by its exclusion from the stability, manufactured neutrality and access to dominant channels of reproduction afforded to institutions. 
