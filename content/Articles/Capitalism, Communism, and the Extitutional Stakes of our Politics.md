@@ -50,7 +50,7 @@ This is the key point: both general positions, and many more between and among t
 
 ----
 
-On the third day of the ETH Denver regen stage (secured by Gregory Landua, Kevin Owocki, Michael Zargham and others in a ferocious display of extitutional coordination), I had my friend Josh Spector read a brief statement on mutualism for my part in a panel I was too sick to attend. The reading went as follows:
+On the third day of the ETH Denver [regen](https://regencommons.com) stage (secured by Gregory Landua, Kevin Owocki, Michael Zargham and others in a ferocious display of extitutional coordination), I had my friend Josh Spector read a brief statement on mutualism for my part in a panel I was too sick to attend. The reading went as follows:
 
 > **Argument: Mutualism is a rich political orientation for Ethereum to explore because it is an *operational* rather than ideological politics.**
 > 
@@ -78,7 +78,7 @@ Conversely, to those who would seek to suppress or culturally marginalize free, 
 
 This binary, these accusations, are counterproductive, and Ethereum as an extitutionally oriented community is well equipped to move beyond traditional politics and focus on the issues that matter: coercion, free association, open protocolization as a safeguard against the former and distributed ledger technologies as a tool to expand and optimize the latter.
 
-**This post is a first knowing contribution to [extitutional.space](https://www.extitutional.space), a knowledge garden and affiliate of the [Open Civics](https://www.opencivics.co) "Open Protocol Library". In coming months, [The Open Machine](https://theopenmachine.net) and friends will be working to push the discursive gravity away from old political binaries - and even away from the blockchain - to the broader extitutional space, asking how distributed ledger technologies and other strategies can serve the project of creating an empirically imaginative, ontologically open post-coercion society.** 
+**This post is my first contribution to [extitutional.space](https://www.extitutional.space), a new knowledge garden and affiliate of the [Open Civics](https://www.opencivics.co) "Open Protocol Library". In coming months, [The Open Machine](https://theopenmachine.net) and friends will be working to push the discursive gravity away from old political binaries - and even away from the blockchain - to the broader extitutional space, asking how distributed ledger technologies and other strategies can serve the project of creating an empirically imaginative, ontologically open post-coercion society.** 
 
 ### Notes
 
