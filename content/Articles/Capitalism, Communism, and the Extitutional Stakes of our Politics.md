@@ -68,15 +68,17 @@ On the third day of the ETH Denver regen stage (secured by Gregory Landua, Kevin
 > 
 >**Mutualism is it!**
 
-I am partial to collective, cooperative, positive sum behavior - but I have no ideological allegiance to it, and I would never appeal, under any circumstances, to a coercive centralized body to enforce and maintain this behavior over and above competitive or rivalrous coordination markets. The overton window is open, the ontology is flat - my allegiance is extitutional. 
+Mutualism is a - not *the* - adequate politics for the pacifistic, pluralistic and libertarian foundations of the Ethereum universe. I am partial to collective, cooperative, positive sum behavior - but I have no ideological allegiance to it, and I would never appeal, under any circumstances, to a coercive centralized body to enforce and maintain this behavior over and above competitive or rivalrous coordination markets. This is Ethereum alignment: The overton window is open, the ontology is flat - my allegiance is extitutional. 
 
 To those who are engaged in an anticommunist witch hunt, I pose two challenges:
 
 - Locate where any actions by the Gitcoin community or the Ethereum Foundation have endorsed coercive restrictions on economic behavior, and I will disaffiliate, and champion your anti-communist cause until such discourse has been stamped out of the space.
 
-- Present  your politics of "operational capitalism," truly libertarian (pacifist and grounded in free association and pluralism) so that me and my crew can have assurances that by capitalism you don't mean "selective use of state intervention to the ends of freedom and captured access for me and people who look like me."
+- Present your politics of "operational capitalism," truly libertarian (pacifist and grounded in free association and pluralism) so that me and my crew can have assurances that by capitalism you don't mean "selective use of state intervention to the ends of freedom and captured access for me and my tribe."
 
-This binary is stupid - Ethereum as an extitutionally oriented community is well equipped to move beyond traditional politics and focus on the issues that matter: coercion, free association, open protocolization as a safeguard against the former and distributed ledger technologies as a tool to expand and optimize the latter.
+Conversely, to those who would seek to suppress or culturally marginalize free, open source, opt-in mechanisms for mutual aid or resource sharing built to operate as a complement to a pluralistic and free economic space on the grounds that they "sound marxist," I have one message: *we are extitutionalists, we understand the key value proposition of Ethereum, and you don't speak for us*.  
+
+This binary, these accusations, are counterproductive, and Ethereum as an extitutionally oriented community is well equipped to move beyond traditional politics and focus on the issues that matter: coercion, free association, open protocolization as a safeguard against the former and distributed ledger technologies as a tool to expand and optimize the latter.
 
 **This post is a first knowing contribution to [extitutional.space](https://www.extitutional.space), a knowledge garden and affiliate of the [Open Civics](https://www.opencivics.co) "Open Protocol Library". In coming months, [The Open Machine](https://theopenmachine.net) and friends will be working to push the discursive gravity away from old political binaries - and even away from the blockchain - to the broader extitutional space, asking how distributed ledger technologies and other strategies can serve the project of creating an empirically imaginative, ontologically open post-coercion society.** 
 
