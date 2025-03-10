@@ -66,7 +66,7 @@ To those who are engaged in an anticommunist witch hunt, I pose two challenges:
 
 This binary is stupid - Ethereum as an extitutionally oriented community is well equipped to move beyond traditional politics and focus on the issues that matter: coercion, free association, open protocolization as a safeguard against the former and distributed ledger technologies as a tool to expand and optimize the latter.
 
-**This post is a first knowing contribution to [extitutional.space](https://www.extitutional.space), a knowledge garden and affiliate of the [Open Civics](https://www.opencivics.co) "Open Protocol Library". In coming months, [The Open Machine](https://theopenmachine.net) and friends will be working to push the discursive gravity away old political binaries, and even away from blockchain, to the broader extitutional space, asking how our tools can serve the project of creating a imaginative post-coercion society.** 
+**This post is a first knowing contribution to [extitutional.space](https://www.extitutional.space), a knowledge garden and affiliate of the [Open Civics](https://www.opencivics.co) "Open Protocol Library". In coming months, [The Open Machine](https://theopenmachine.net) and friends will be working to push the discursive gravity away from old political binaries - and even away from the blockchain - to the broader extitutional space, asking how distributed ledger technologies and other strategies can serve the project of creating an empiricallyimaginative, ontologically open post-coercion society.** 
 
 ### Notes
 
