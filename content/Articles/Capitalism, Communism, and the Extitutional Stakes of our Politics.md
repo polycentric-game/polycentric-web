@@ -53,7 +53,7 @@ On the third day of the ETH Denver regen stage (secured by Gregory Landua, Kevin
 >**An ontologically open politics:** 
 > - **finally, sidestepping the ontological content of rights based or legalistic regimes, the consent based free association mutualism endorses is an  imaginative project that could include ~diverse minds ~from the greater than  human world.** 
 > 
-**If we want to take full advantage of what Ethereum has to offer, we need a politics that endorses practical imagination about social and economic configurations, an empirically curious, open ontology of what constitutes a participatory actor, all built on the grounds of peaceful, parallel autonomy from the state.** 
+> **If we want to take full advantage of what Ethereum has to offer, we need a politics that endorses practical imagination about social and economic configurations, an empirically curious, open ontology of what constitutes a participatory actor, all built on the grounds of peaceful, parallel autonomy from the state.** 
 > 
 >**Mutualism is it!**
 
