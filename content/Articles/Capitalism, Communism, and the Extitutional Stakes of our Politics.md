@@ -39,7 +39,14 @@ Broadly speaking, capitalist ideology has been implemented under more free and o
 
 Like communism, capitalist ideology at its worst has been known to preach free markets and libertarian values while depending on astounding acts of coercive [state intervention](https://en.wikipedia.org/wiki/1973_Chilean_coup_d%27état) to fulfill [missions of](https://en.wikipedia.org/wiki/Halliburton#Iraq_War) centralization, monopolization and capture. 
 
-From an extitutional lens, none of this ideological mystification speaks against the role of markets in facilitating channels of dissent, pluralism, and empirical inspiration.[5] Markets have been for centuries and remain a place for open values to express themselves under coercive regimes. [6] This is the key point: both general positions, and many more between and among them, have their coercive, reductive, administrative embodiments in an institutional form that depends on enclosure, capture and unreality, just as both have their *extitutional* embodiments as vectors of open experimentation, practical adequacy, and dissent.
+From an extitutional lens, none of this ideological mystification speaks against the role of markets in facilitating channels of dissent, pluralism, and empirical inspiration.[5] Markets have been for centuries and remain a place for open values to express themselves under coercive regimes. [6]
+
+| institutional form | extitutional form |
+| ------------------ | ----------------- |
+| communism  💀      | mutual aid   🌱   |
+| capitalism     💀  | markets       🌱  |
+
+This is the key point: both general positions, and many more between and among them, have their coercive, reductive, administrative embodiments in an institutional form that depends on enclosure, capture and unreality, just as both have their *extitutional* embodiments as vectors of open experimentation, practical adequacy, and dissent.
 
 ----
 
