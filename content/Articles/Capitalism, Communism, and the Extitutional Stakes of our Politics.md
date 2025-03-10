@@ -65,8 +65,6 @@ On the third day of the ETH Denver regen stage (secured by Gregory Landua, Kevin
 > - **finally, sidestepping the ontological content of rights based or legalistic regimes, the consent based free association mutualism endorses is an  imaginative project that could include ~diverse minds ~from the greater than  human world.** 
 > 
 > **If we want to take full advantage of what Ethereum has to offer, we need a politics that endorses practical imagination about social and economic configurations, an empirically curious, open ontology of what constitutes a participatory actor, all built on the grounds of peaceful, parallel autonomy from the state.** 
-> 
->**Mutualism is it!**
 
 Mutualism is a - not *the* - adequate politics for the pacifistic, pluralistic and libertarian foundations of the Ethereum universe. I am partial to collective, cooperative, positive sum behavior - but I have no ideological allegiance to it, and I would never appeal, under any circumstances, to a coercive centralized body to enforce and maintain this behavior over and above competitive or rivalrous coordination markets. This is Ethereum alignment: The overton window is open, the ontology is flat - my allegiance is extitutional. 
 
@@ -84,7 +82,7 @@ This binary, these accusations, are counterproductive, and Ethereum as an extitu
 
 ### Notes
 
-[1] Alongside Ethereum I would place the psychedelic movement -especially LSD, which has to now defied cooptation by the "functionalist" medical industrial complex; "freak" or experimental art scenes that tend to dissolve patterns of passive consumption or spectatorship; BDSM and the kink space; and those experimenting with interspecies ethics and communication in grassroots, encounter based, non-legalistic contexts. 
+[1] Alongside Ethereum I would place the psychedelic movement -especially LSD, which has to now defied cooptation by the "functionalist" medical industrial complex; "[freak](https://freakscene.us)" or experimental art scenes that tend to dissolve patterns of passive consumption or spectatorship; BDSM and the kink space; and those experimenting with interspecies ethics and communication in grassroots, encounter based, non-legalistic contexts. 
 
 [2] This phrase was adopted from the phrase "[field causality](https://archiv.hkw.de/en/programm/projekte/2014/anthropozaenprojekt_ein_bericht/enzyklopaedie/feldkausalitaet.php)" as it appears in the work of [Forensic Architecture](https://forensic-architecture.org) and [affiliated projects](https://www.hkw.de/en).
 
