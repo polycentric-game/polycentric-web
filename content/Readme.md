@@ -21,17 +21,21 @@ The knowledge commons is built on simple [markdown](https://www.markdownguide.or
 ``` yarn quartz build --serve
 ````
 
-3. Open the /content folder as a vault in Obsidian
+3. Create new branch to start editing content
+
+`git branch -M your-branch-name`
+
+4. Open the /content folder as a vault in Obsidian
    Create and Edit content with files and folders within Obsidian
-4. Request access to push your updates back to [Github](https://github.com/oovg/polycentric).
-5. Create a pull request from `your-branch-name` to `v4`
-6. When accepted, your content will be live on the website.
+5. Request access to push your updates back to [Github](https://github.com/oovg/polycentric).
+6. Create a pull request from `your-branch-name` to `v4`
+7. When accepted, your content will be live on the website.
 
 ## Authoring Content
 
 ## Metadata
 
-Each Markdown file can use the following metadata at the top.
+Each Markdown file can use the following metadata at the top for extended functionality such as saving a file as a draft.
 
 ```
 ---
