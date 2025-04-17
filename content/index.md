@@ -4,4 +4,4 @@ title: Welcome to Polycentric
 
 # Polycentric
 
-a roleplaying game of agreements
+a role-playing game of agreements
