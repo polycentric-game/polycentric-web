@@ -31,7 +31,7 @@ We then basically said 'Play', merely instructing them to start talking with eac
 
 As agreements were made, players would write down which agents were involved the agreement and the terms of the agreement. Listing the obligations that were given, and the benefits received. They would then tack the agreement on on the right side of the board and then connect it with string to all involved agents from the left side of the board.
 
-![boardOfAgreeements-process](./images/boardOfAgreeements-process.jpeg)
+![boardOfAgreeements-process](/images/boardOfAgreeements-process.jpeg)
 
 
 The first agreement was a small MOU style agreement between a global policy advocator and indigenous practitioner to hold space together and learn from each other.
@@ -45,9 +45,9 @@ The second to last agreement was a complex multilateral agreement. A coalition f
 
 Players were having a great time playing the game, so play continued through lunch, where we did a collective debrief of agreements made. For each agreement, a player who participated would come up and share the dynamics of the agreement. Which agents were involved, to what degree, and the purpose or benefits of the agreement.
 
-![session0-lunch](./images/session0-lunch.jpeg)
+![session0-lunch](/images/session0-lunch.jpeg)
 
-![debrief_2](./images/debrief_2.jpeg)
+![debrief_2](/images/debrief_2.jpeg)
 
 
 
