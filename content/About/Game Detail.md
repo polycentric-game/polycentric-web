@@ -1,8 +1,6 @@
 # Game Plan
-
-Working Title:  
-_Polycentricity_  
-By mzargham and… tbd
+ 
+By michael zargham, ven gist, and dorn cox
 
 ## [](#Why-This-Game "Why-This-Game")Why This Game?
 

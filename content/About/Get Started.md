@@ -1,10 +1,10 @@
 # Polycentricity
 
-A governance roleplaying game
+A roleplaying game of networked agreements
 
 ## What is it?
 
-**_Polycentric_** is a structured roleplaying game that simulates the complexity of collaborative governance. Players take on unique roles (e.g. farmer, co-op, policy advocate) and must negotiate agreements with others by exchanging obligations and benefits.
+**_Polycentric_** is a structured roleplaying game that simulates the complexity of collaborative governance in distributed environments. Players take on unique roles (e.g. farmer, policy advocate, coop) and must negotiate agreements with others by exchanging obligations and benefits.
 
 Instead of “winning,” the aim is to practice creative problem-solving and reflect on real-world governance challenges:
 
