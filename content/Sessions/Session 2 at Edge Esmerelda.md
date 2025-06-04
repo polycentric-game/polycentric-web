@@ -1,8 +1,10 @@
-This information should help you onboard for the Polycentric game session during Butter's Governance Games at Edge Esmerelda
+This information should help you onboard for the Polycentric game session during Butter's Governance Games at Edge Esmerelda. 
 
 https://polycentricity3.endogon.com
 
 ## Create account and Join Game
+
+*Please only join if you intend to be here physically to play the game*
 
 1. Create an account at polycentricity3.endogon.com
 2. Confirm your email
