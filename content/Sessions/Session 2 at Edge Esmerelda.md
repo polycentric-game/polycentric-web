@@ -2,7 +2,7 @@ This information should help you onboard for the Polycentric game session during
 
 https://polycentricity3.endogon.com
 
-## orientation
+## Create account and Join Game
 
 1. Create an account at polycentricity3.endogon.com
 2. Confirm your email
@@ -11,7 +11,7 @@ https://polycentricity3.endogon.com
 6. Choose a role - Just enter game to go with the random selection.
 7. Enter Game
 
-You should now be in the game with role.
+You should now be in the game with a role.
 
 ## In-game
 
